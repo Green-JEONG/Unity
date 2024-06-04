@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Data">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tutorial/01/LEGO Microgame/Library/PackageCache/com.unity.lego.modelimporter@8.0.1/Data/LegacyParts.zip!/" />
+      <root url="jar://$PROJECT_DIR$/tutorial/01/LEGO Microgame/Library/PackageCache/com.unity.lego.modelimporter@8.0.1/Data/CommonParts.zip!/" />
+      <root url="jar://$PROJECT_DIR$/tutorial/01/LEGO Microgame/Library/PackageCache/com.unity.lego.modelimporter@8.0.1/Data/NewParts.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
