@@ -3,7 +3,9 @@
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
 
-tutorial/01/LEGO Microgame/Library/
+#tutorial/01/LEGO Microgame/Library/
+
+Library/
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
